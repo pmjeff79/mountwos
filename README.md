@@ -1,0 +1,2 @@
+# WhompOS-Core
+person project
