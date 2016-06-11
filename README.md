@@ -1,2 +1,2 @@
 # WhompOS-Core
-person project
+personal pet project
