@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir ../tmp
+
+cp -Rv {bash_profile,bashrc}  ../tmp
+pushd -v ../tmp
+mv -v {bash_profile,bashrc} .{bash_profile,bashrc}
+popd -v
+
+ls -s ../.*
