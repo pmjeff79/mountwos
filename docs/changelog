@@ -1,0 +1,29 @@
+MOUNTWOS (4.0) Beta
+
+  * Reorganized directory structure and created the docs directory. Added
+    COPYING README INSTALL and various other files
+
+ -- Jeffrey N White <jwhite@whompy.org> Tue, 27 Apr 2021 23:26:35 -0700
+
+
+MOUNTWOS (3.0) UNSTABLE; urgency=low
+
+  * No Release
+
+ -- Jeffrey N White <jwhite@whompy.org> Wed, 01 Apr 2020 23:26:35 -0700
+
+
+MOUNTWOS (2.0) UNSTABLE; urgency=low
+
+  * No Release
+
+ -- Jeffrey N White <jwhite@whompy.org> Sat, 06 Jan 2018 10:19:00 -0700
+
+
+MOUNTWOS (1.0) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #100117)
+
+ -- Jeffrey N White <jwhite@whompy.org>  Sun, 01 Oct 2017 06:10:37 -0700
+
+  
